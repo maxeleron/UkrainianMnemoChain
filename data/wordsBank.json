@@ -1,0 +1,20 @@
+[
+  {
+    "word": "калина",
+    "type": "real",
+    "difficulty": "B2",
+    "length": 6
+  },
+  {
+    "word": "бик",
+    "type": "real",
+    "difficulty": "A2",
+    "length": 3
+  },
+  {
+    "word": "дружба",
+    "type": "abstract",
+    "difficulty": "B1",
+    "length": 6
+  }
+]
